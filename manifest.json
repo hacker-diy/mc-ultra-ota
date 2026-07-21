@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "product": "magic_control_ultra",
+  "latest_version": 63,
+  "version_text": "v6.3",
+  "firmware_url": "https://raw.githubusercontent.com/hacker-diy/mc-ultra-ota/main/firmware.bin",
+  "firmware_size": 0,
+  "md5": "",
+  "message": "Magic Control Ultra v6.3: separated fake Wi-Fi beacon BSSIDs from the real control access point for stable Android connectivity during broadcast.",
+  "notes": "Fake broadcast networks now use unique locally administered unicast MAC addresses and no longer reuse the real Magic Control Ultra AP BSSID. This targets Android disconnect/reconnect failures when broadcast starts. Firmware version and Notes PWA cache were bumped to v63. Calc, Notes, OLED, battery monitor, BOOT, LED, beacon timing, AP name/password, SSID content, channels, Ultra OTA architecture and other core behavior were not changed."
+}
