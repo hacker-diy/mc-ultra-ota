@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "product": "magic_control_ultra",
+  "latest_version": 64,
+  "version_text": "v6.4",
+  "firmware_url": "https://raw.githubusercontent.com/hacker-diy/mc-ultra-ota/main/firmware.bin",
+  "firmware_size": 0,
+  "md5": "",
+  "message": "Magic Control Ultra v6.4 is available with the complete Pro v2.4 feature set adapted to Ultra hardware.",
+  "notes": "Magic Control Ultra v6.4 adds the standalone Force PWA at /force, six independent Force-enabled seed notes, hidden per-note list setup, persistent swap commands, corrected permanent-note dates, automatic Notes cache refresh and native-style note navigation. Ultra OLED wiring, battery monitoring, product branding, application icon and the separate Ultra OTA channel are preserved. Existing settings, Force lists, selected values, language, theme, user-created notes and the NVS namespace remain compatible and are not reset."
+}
