@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "product": "magic_control_ultra",
+  "latest_version": 66,
+  "version_text": "v6.6",
+  "firmware_url": "https://raw.githubusercontent.com/hacker-diy/mc-ultra-ota/main/firmware.bin",
+  "firmware_size": 0,
+  "md5": "",
+  "message": "Magic Control Ultra v6.6: responsive Calculator, Force, Peek and Lock Screen.",
+  "notes": "Fixes all 11 audited display issues: measured calculator font sizing and scrollable long expressions; bounded Force layout and value text; complete Peek values; separate Lock Screen preview and action touch areas; keypad spacing; wrapping preset names and value statistics. Ultra OLED wiring, battery monitoring, branding, its separate OTA channel, firmware APIs, NVS schema, OTA partitions and MC Watch protocol are preserved."
+}
